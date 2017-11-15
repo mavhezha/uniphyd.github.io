@@ -17,7 +17,7 @@ Find out more about us [here](https://github.com/uniphyd/welcome).
 Computer Science Student <br />
 Music and Tech enthusiast  <br />
 I [tweet](https://twitter.com/Got_aBig__) a lot.  <br />
-I write [code](https://github.com/malgamves){:target="_blank"} too <br />
+I write [code](https://github.com/malgamves) too <br />
 
 
 
