@@ -12,6 +12,7 @@ Find out more about us [here](https://github.com/uniphyd/welcome).
 
 
 ### Daniel
+![Me](https://2.bp.blogspot.com/--Wvse4cxfYw/WZpbC1hoOmI/AAAAAAAAAWc/lDBXo5hjUxoaYgjCIZmEkgmxrF3bdpSXwCLcBGAs/s320/App%2BDeveloper.jpg)
 Computer Science Student :computer: <br />
 Music and Tech enthusiast :headphones: <br />
 I [tweet](https://twitter.com/Got_aBig__) a lot. :hatched_chick: <br />
@@ -38,7 +39,7 @@ Check out our projects [here](https://github.com/uniphyd)
 
 ## Updates
 
-:ghost: *Nothing new yet*
+:alien: *Nothing new yet*
 
 
 <br />
