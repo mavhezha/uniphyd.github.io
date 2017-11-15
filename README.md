@@ -14,10 +14,10 @@ Find out more about us [here](https://github.com/uniphyd/welcome).
 ### Daniel
 ![Me](https://2.bp.blogspot.com/--Wvse4cxfYw/WZpbC1hoOmI/AAAAAAAAAWc/lDBXo5hjUxoaYgjCIZmEkgmxrF3bdpSXwCLcBGAs/s320/App%2BDeveloper.jpg)<br />
 
-Computer Science Student :computer: <br />
-Music and Tech enthusiast :headphones: <br />
-I [tweet](https://twitter.com/Got_aBig__) a lot. :hatched_chick: <br />
-I write [code](https://github.com/malgamves) too :octocat: <br />
+Computer Science Student <br />
+Music and Tech enthusiast  <br />
+I [tweet](https://twitter.com/Got_aBig__) a lot.  <br />
+I write [code](https://github.com/malgamves) too <br />
 
 
 
@@ -40,7 +40,7 @@ Check out our projects [here](https://github.com/uniphyd)
 
 ## Updates
 
-:alien: *Nothing new yet*
+ *Nothing new yet*
 
 
 <br />
