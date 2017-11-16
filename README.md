@@ -29,7 +29,10 @@ I write [code](https://github.com/malgamves) too <br />
 
 
 ### Vatsal
-- Add Content
+A Pythonista! <br />
+Tech Enthusiast! <br />
+I [code](https://github.com/mistryvatsal) and develop teeny tiny apps.
+[Know me more.](www.vatsalmistry.me)
 
 
 ## Projects
