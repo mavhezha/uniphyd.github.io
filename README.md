@@ -12,7 +12,6 @@ Find out more about us [here](https://github.com/uniphyd/welcome).
 
 
 ### Daniel
-![Me](https://2.bp.blogspot.com/--Wvse4cxfYw/WZpbC1hoOmI/AAAAAAAAAWc/lDBXo5hjUxoaYgjCIZmEkgmxrF3bdpSXwCLcBGAs/s320/App%2BDeveloper.jpg)<br />
 
 Computer Science Student <br />
 Music and Tech enthusiast  <br />
