@@ -21,7 +21,9 @@ I write [code](https://github.com/malgamves) too <br />
 
 
 ### Harsh
-- Add Content
+Computer Engineer  <br />
+Programmer   </br>
+IF u want to Go fast, Go alone and If u want to Go far, Go together  --Ratan Tata  </br>
 
 
 ### Jaydeep
