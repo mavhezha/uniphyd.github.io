@@ -27,7 +27,8 @@ IF u want to Go fast, Go alone and If u want to Go far, Go together  --Ratan Tat
 
 
 ### Jaydeep
-- Add Content
+Computer Science Student <br />
+catch me [here](https://github.com/Jdpurohit)
 
 
 ### Vatsal
