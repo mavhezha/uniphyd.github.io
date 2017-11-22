@@ -23,12 +23,12 @@ I write [code](https://github.com/malgamves) too <br />
 ### Harsh
 Computer Engineer  <br />
 Programmer   <br />
-IF u want to Go fast, Go alone and If u want to Go far, Go together  --Ratan Tata  <br />
+IF you want to go fast, Go alone and if you want to go far, Go together  --Ratan Tata  <br />
 
 
 ### Jaydeep
 Computer Science Student <br />
-catch me [here](https://github.com/Jdpurohit)
+Catch me [here](https://github.com/Jdpurohit)
 
 
 ### Vatsal
