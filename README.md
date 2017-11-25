@@ -23,7 +23,7 @@ I write [code](https://github.com/malgamves) too <br />
 ### Harsh
 Computer Engineer  <br />
 Programmer   <br />
-IF you want to go fast, Go alone and if you want to go far, Go together  --Ratan Tata  <br />
+If you want to go fast, Go alone and if you want to go far, Go together  --Ratan Tata  <br />
 
 
 ### Jaydeep
