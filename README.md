@@ -2,7 +2,6 @@
 *It's pronounced unified :)*
 
 <br />
-<br />
 
 What are we? 
 
@@ -22,6 +21,7 @@ What are we?
 
 Find out more about us [here.](https://github.com/uniphyd/welcome)
 
+<br />
 
 ## Our Team
 
@@ -55,10 +55,15 @@ Tech Enthusiast! <br />
 I [code](https://github.com/mistryvatsal) and develop teeny tiny apps.
 [Know me more.](www.vatsalmistry.me)
 
+<br />
+
 
 ## Projects
 
 Check out our projects [here](https://github.com/uniphyd)
+
+<br />
+
 
 
 ## Updates
