@@ -13,7 +13,7 @@ What are we?
 
 - **Providing a platform to collaborate at scale.**
 
-Find out more about us [here.](https://github.com/uniphyd/welcome)
+Find out [more about us](https://github.com/uniphyd/welcome)
 
 <br />
 
@@ -54,7 +54,7 @@ I [code](https://github.com/mistryvatsal) and develop teeny tiny apps.
 
 ## Projects
 
-Check out our projects [here](https://github.com/uniphyd)
+Check out our [projects](https://github.com/uniphyd)
 
 <br />
 
