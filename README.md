@@ -7,15 +7,9 @@ What are we?
 
 - **We're about community and participation.**
 
-
-
 - **We're a platform for growth.**
 
-
-
 - **We're about open source, and its numerous benefits.**
-
-
 
 - **Providing a platform to collaborate at scale.**
 
@@ -69,7 +63,10 @@ Check out our projects [here](https://github.com/uniphyd)
 ## Updates
 
 Are you a Computer Science Student??
+<br />
+
 We're compiling a repository of common practicals and tutorials for subjects taken in a usual Computer Science degree course
+<br />
 In every language ;)
 
 Participate by contributing to [this](https://github.com/uniphyd/CSE-Semester-6) repository.
