@@ -5,11 +5,11 @@
 
 What are we? 
 
-- **We're about community and participation**
+- **We're about community and participation.**
 
 
 
-- **We're a platform for growth**
+- **We're a platform for growth.**
 
 
 
@@ -17,7 +17,7 @@ What are we?
 
 
 
-- **Providing a platform to collaborate at scale**
+- **Providing a platform to collaborate at scale.**
 
 Find out more about us [here.](https://github.com/uniphyd/welcome)
 
