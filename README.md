@@ -1,14 +1,32 @@
 # Welcome to Uniphyd
-Find out more about us [here](https://github.com/uniphyd/welcome).
+*It's pronounced unified :)*
 
 <br />
 <br />
+
+What are we? 
+
+- **We're about community and participation**
+
+
+
+- **We're a platform for growth**
+
+
+
+- **We're about open source, and its numerous benefits.**
+
+
+
+- **Providing a platform to collaborate at scale**
+
+Find out more about us [here.](https://github.com/uniphyd/welcome)
 
 
 ## Our Team
 
 ### Anindita
-- Add Content
+
 
 
 ### Daniel
@@ -45,7 +63,11 @@ Check out our projects [here](https://github.com/uniphyd)
 
 ## Updates
 
- *Nothing new yet*
+Are you a Computer Science Student??
+We're compiling a repository of common practicals and tutorials for subjects taken in a usual Computer Science degree course
+In every language ;)
+
+Participate by contributing to [this](https://github.com/uniphyd/CSE-Semester-6) repository.
 
 
 <br />
