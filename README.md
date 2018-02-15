@@ -51,6 +51,14 @@ I [code](https://github.com/mistryvatsal) and develop teeny tiny apps.
 
 <br />
 
+### Parth
+Tech and Gadgets Geek! <br/>
+Computer Science Student <br/>
+Catch me on [twitter](https://twitter.com/iparthpurohit)  <br />
+And yeah, I [code](https://github.com/purohitparth) as well. <br/>
+
+
+
 
 ## Projects
 
