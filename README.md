@@ -20,6 +20,7 @@ Find out [more about us](https://github.com/uniphyd/welcome)
 ## Our Team
 
 ### Anindita
+Computer Engineer 
 
 
 
