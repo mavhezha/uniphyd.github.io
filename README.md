@@ -20,6 +20,7 @@ Find out [more about us](https://github.com/uniphyd/welcome)
 ## Our Team
 
 ### Anindita
+Computer Engineer 
 
 
 
@@ -58,6 +59,14 @@ And yeah, I [code](https://github.com/purohitparth) as well. <br/>
 Know [more](www.parthpurohit.me)
 
 <br />
+
+### Parth
+Tech and Gadgets Geek! <br/>
+Computer Science Student <br/>
+Catch me on [twitter](https://twitter.com/iparthpurohit)  <br />
+And yeah, I [code](https://github.com/purohitparth) as well. <br/>
+
+
 
 
 ## Projects
