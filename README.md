@@ -48,7 +48,15 @@ Catch me [here](https://github.com/Jdpurohit)
 A Pythonista! <br />
 Tech Enthusiast! <br />
 I [code](https://github.com/mistryvatsal) and develop teeny tiny apps.
-[Know me more.](www.vatsalmistry.me)
+[Know me more.](www.vatsalmistry.me) <br/>
+
+### Parth
+
+Tech and Gadgets Geek! <br/>
+Computer Science Student <br/>
+Catch me on [twitter](https://twitter.com/iparthpurohit) <br/>
+And yeah, I [code](https://github.com/purohitparth) as well. <br/>
+Know [more](www.parthpurohit.me)
 
 <br />
 
