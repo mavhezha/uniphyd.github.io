@@ -272,6 +272,24 @@ section h3.section-subheading {
     font-family: 'Comfortaa';
     font-size: 20px;
 }
+.text_comf_large {
+    text-align: center;
+    font-family: 'Comfortaa';
+    font-weight: normal;
+    font-size: 40px;
+}
+.text_moan_large {
+    text-align: center;
+    font-family: 'Modern Antiqua';
+    font-weight: normal;
+    font-size: 40px;
+}
+.text_comf_med {
+    text-align: center;
+    font-family: 'Comfortaa';
+    font-weight: normal;
+    font-size: 25px;
+}
 .text_po_nor {
     font-family: 'Poiret One';
     font-size: 20px;
@@ -279,8 +297,26 @@ section h3.section-subheading {
 .text_po_max
 {
     font-family: 'Poiret One';
-    font-weight: 900;
+    font-weight: 600;
     font-size: 60px;
+    text-align: center;
+}
+.text_po_max_home
+{
+    font-family: 'Poiret One';
+    font-weight: 600;
+    font-size: 60px;
+    text-align: center;
+}
+@media only screen and (min-width: 768px)
+{
+    .text_po_max_home
+{
+    font-family: 'Poiret One';
+    font-weight: 600;
+    font-size: 60px;
+    text-align: left;
+}
 }
 .text_po_med
 {
@@ -307,9 +343,19 @@ strong::before, strong::after {
     content:'';
 }
 .ti_uni {
+    font-family: 'Comfortaa';
     color: rgb(239,153,51);
 }
 .ti_phyd {
+    font-family: 'Comfortaa';
+    color: rgb(177,79,46);
+}
+.ti_uni_home {
+    font-family: 'Righteous';
+    color: rgb(239,153,51);
+}
+.ti_phyd_home {
+    font-family: 'Righteous';
     color: rgb(177,79,46);
 }
 .ti_posi {
@@ -369,6 +415,10 @@ footer p {
 .long_hr {
     max-width: 500px;
 }
+.long_hr_light{
+    border-color:white;
+    max-width: 500px;
+}
 
 .ws_more {
     font-family: 'Poiret One';
@@ -385,6 +435,42 @@ footer p {
 }
 .ws_more:hover {
     background-color: rgb(178,81,46);
+}
+.gallery-img {
+	border: 1px solid #212529;
+	border-radius: .25rem;
+	max-width: 100%;
+	height: auto;
+}
+.cta {
+width: 100%;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: rgba(255, 255, 255, 0.5);
+}
+.cta-dark {
+width: 100%;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+.cta .cta-inner {
+  position: relative;
+  padding: 3rem;
+  margin: 0.5rem;
+  background-color: rgba(252, 216, 160, 0.85);
+}
+
+.cta .cta-inner:before {
+  border-radius: 0.5rem;
+  content: '';
+  position: absolute;
+  top: -0.5rem;
+  bottom: -0.5rem;
+  left: -0.5rem;
+  right: -0.5rem;
+  border: 0.25rem solid rgba(255, 255, 255, 0.85);
 }
 
 /*
