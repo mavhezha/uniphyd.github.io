@@ -246,6 +246,10 @@ section h3.section-subheading {
   }
 }
 
+.blank_space {
+    margin-bottom: 250px;
+}
+
 .section-heading .section-heading-upper {
   display: block;
   font-size: 1rem;
@@ -269,42 +273,40 @@ section h3.section-subheading {
 }
 .comfort { 
     font-family: 'Comfortaa';
-    font-size: 20px;
+    font-size: 16px;
 }
 .text_comf_large {
     text-align: center;
     font-family: 'Comfortaa';
     font-weight: normal;
-    font-size: 40px;
-}
-.text_moan_large {
-    text-align: center;
-    font-family: 'Modern Antiqua';
-    font-weight: normal;
-    font-size: 40px;
+    font-size: 20px;
 }
 .text_comf_med {
     text-align: center;
     font-family: 'Comfortaa';
     font-weight: normal;
-    font-size: 25px;
-}
-.text_po_nor {
-    font-family: 'Poiret One';
     font-size: 20px;
 }
-.text_po_max
-{
-    font-family: 'Poiret One';
-    font-weight: 600;
-    font-size: 60px;
+
+.gallery_title {
+    font-family: 'Comfortaa';
+    font-size: 30px !important;
     text-align: center;
+    font-weight: 500;
+
 }
 .text_po_max_home
 {
     font-family: 'Poiret One';
     font-weight: 600;
-    font-size: 60px;
+    font-size: 35px;
+    text-align: center;
+}
+.text_po_max
+{
+    font-family: 'Poiret One';
+    font-weight: 600;
+    font-size: 40px;
     text-align: center;
 }
 @media only screen and (min-width: 768px)
@@ -313,21 +315,27 @@ section h3.section-subheading {
 {
     font-family: 'Poiret One';
     font-weight: 600;
-    font-size: 60px;
-    text-align: left;
+    font-size: 40px;
+    text-align: center;
+}
+    .text_po_med
+{
+    font-family: 'Poiret One';
+    font-weight: 600;
+    font-size:50px;
 }
 }
 .text_po_med
 {
     font-family: 'Poiret One';
-    font-weight: 500;
-    font-size: 40px;
+    font-weight: 600;
+    font-size:27px;
 }
 .text_po_med-sm
 {
     font-family: 'Poiret One';
-    font-weight: 600;
-    font-size: 30px;
+    font-weight: 600 !important;
+    font-size: 30px !important;
 }
 .text_po_sm
 {
@@ -335,8 +343,20 @@ section h3.section-subheading {
     font-weight: 600;
     font-size: 20px;
 }
+.text_po_nor {
+    font-family: 'Poiret One';
+    font-size: 20px;
+}
+
 .uni_logo {
     border: none;
+}
+.gallery_date {
+    font-family: 'Comfortaa';
+    font-size: 18px;
+    padding-bottom: 15px;
+    padding-top: 5px;
+    text-align: left;
 }
 strong::before, strong::after {
     content:'';
@@ -408,7 +428,7 @@ footer p {
 }
 .f_res {
     font-family: 'Poiret One';
-    font-size: 50px;
+    font-size: 40px;
     font-weight: bold;
 }
 .long_hr {
@@ -445,7 +465,7 @@ footer p {
 width: 100%;
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: rgba(255, 255, 255, 0.5);
+  background-color: rgba(255, 255, 255, 0.4);
 }
 .cta-dark {
 width: 100%;
@@ -471,43 +491,24 @@ width: 100%;
   right: -0.5rem;
   border: 0.25rem solid rgba(255, 255, 255, 0.85);
 }
-
-/*
-@media (min-width: 400px)
-.col-lg-3 {
-    -ms-flex: 0 0 25% !important;
-    flex: 0 0 25% !important;
-    max-width: 25% !important;
+.member {
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
 }
-
-*/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.member h2 {
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 18px;
+    margin-bottom: 7px;
+}
+.member img {
+    margin-bottom: 20px;
+    border-color: black;
+}
+.emphasis {
+    font-style: italic;
+    
+}
 
