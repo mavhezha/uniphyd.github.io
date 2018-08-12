@@ -45,7 +45,6 @@ section h2.section-heading {
   margin-top: 0;
   margin-bottom: 15px;
 }
-
 section h3.section-subheading {
   font-size: 16px;
   font-weight: 400;
@@ -65,7 +64,6 @@ section h3.section-subheading {
   padding: 0;
   list-style: none;
 }
-
 .timeline:before {
   position: absolute;
   top: 0;
@@ -76,22 +74,18 @@ section h3.section-subheading {
   content: '';
   background-color: #e9ecef;
 }
-
 .timeline > li {
   position: relative;
   min-height: 50px;
   margin-bottom: 50px;
 }
-
 .timeline > li:after, .timeline > li:before {
   display: table;
   content: ' ';
 }
-
 .timeline > li:after {
   clear: both;
 }
-
 .timeline > li .timeline-panel {
   position: relative;
   float: right;
@@ -99,21 +93,18 @@ section h3.section-subheading {
   padding: 0 20px 0 100px;
   text-align: left;
 }
-
 .timeline > li .timeline-panel:before {
   right: auto;
   left: -15px;
   border-right-width: 15px;
   border-left-width: 0;
 }
-
 .timeline > li .timeline-panel:after {
   right: auto;
   left: -14px;
   border-right-width: 14px;
   border-left-width: 0;
 }
-
 .timeline > li .timeline-image {
   position: absolute;
   z-index: 100;
@@ -127,51 +118,42 @@ section h3.section-subheading {
   border-radius: 100%;
   background-color: #fed136;
 }
-
 .timeline > li .timeline-image h4 {
   font-size: 10px;
   line-height: 14px;
   margin-top: 12px;
 }
-
 .timeline > li.timeline-inverted > .timeline-panel {
   float: right;
   padding: 0 20px 0 100px;
   text-align: left;
 }
-
 .timeline > li.timeline-inverted > .timeline-panel:before {
   right: auto;
   left: -15px;
   border-right-width: 15px;
   border-left-width: 0;
 }
-
 .timeline > li.timeline-inverted > .timeline-panel:after {
   right: auto;
   left: -14px;
   border-right-width: 14px;
   border-left-width: 0;
 }
-
 .timeline > li:last-child {
   margin-bottom: 0;
 }
-
 .timeline .timeline-heading h4 {
   margin-top: 0;
   color: inherit;
 }
-
 .timeline .timeline-heading h4.subheading {
   text-transform: none;
 }
-
 .timeline .timeline-body > ul,
 .timeline .timeline-body > p {
   margin-bottom: 0;
 }
-
 @media (min-width: 768px) {
   .timeline:before {
     left: 50%;
@@ -203,7 +185,6 @@ section h3.section-subheading {
     text-align: left;
   }
 }
-
 @media (min-width: 992px) {
   .timeline > li {
     min-height: 150px;
@@ -225,7 +206,6 @@ section h3.section-subheading {
     padding: 0 20px 20px;
   }
 }
-
 @media (min-width: 1200px) {
   .timeline > li {
     min-height: 170px;
@@ -245,19 +225,19 @@ section h3.section-subheading {
     padding: 0 100px 20px 20px;
   }
 }
-
+.blank_space {
+    margin-bottom: 250px;
+}
 .section-heading .section-heading-upper {
   display: block;
   font-size: 1rem;
   font-weight: 800;
 }
-
 .section-heading .section-heading-lower {
   display: block;
   font-size: 3rem;
   font-weight: 100;
 }
-
 .bg-faded {
   background-color: rgba(255, 255, 255, 0.85);
 }
@@ -269,65 +249,69 @@ section h3.section-subheading {
 }
 .comfort { 
     font-family: 'Comfortaa';
-    font-size: 20px;
+    font-size: 16px;
 }
 .text_comf_large {
     text-align: center;
     font-family: 'Comfortaa';
     font-weight: normal;
-    font-size: 40px;
-}
-.text_moan_large {
-    text-align: center;
-    font-family: 'Modern Antiqua';
-    font-weight: normal;
-    font-size: 40px;
+    font-size: 20px;
 }
 .text_comf_med {
     text-align: center;
     font-family: 'Comfortaa';
     font-weight: normal;
-    font-size: 25px;
-}
-.text_po_nor {
-    font-family: 'Poiret One';
     font-size: 20px;
 }
-.text_po_max
-{
-    font-family: 'Poiret One';
-    font-weight: 600;
-    font-size: 60px;
+
+.gallery_title {
+    font-family: 'Comfortaa';
+    font-size: 30px !important;
     text-align: center;
+    font-weight: 500;
+
 }
 .text_po_max_home
 {
     font-family: 'Poiret One';
     font-weight: 600;
-    font-size: 60px;
+    font-size: 35px;
+    text-align: center;
+}
+.text_po_max
+{
+    font-family: 'Poiret One';
+    font-weight: 600;
+    font-size: 40px;
     text-align: center;
 }
 @media only screen and (min-width: 768px)
 {
     .text_po_max_home
-{
-    font-family: 'Poiret One';
-    font-weight: 600;
-    font-size: 60px;
-    text-align: left;
-}
+    {
+        font-family: 'Poiret One';
+        font-weight: 600;
+        font-size: 40px;
+        text-align: center;
+    }
+    .text_po_med
+    {
+        font-family: 'Poiret One';
+        font-weight: 600;
+        font-size:50px;
+    }
 }
 .text_po_med
 {
     font-family: 'Poiret One';
-    font-weight: 500;
-    font-size: 40px;
+    font-weight: 600;
+    font-size:27px;
 }
 .text_po_med-sm
 {
     font-family: 'Poiret One';
-    font-weight: 600;
-    font-size: 30px;
+    font-weight: 600 !important;
+    font-size: 30px !important;
 }
 .text_po_sm
 {
@@ -335,8 +319,19 @@ section h3.section-subheading {
     font-weight: 600;
     font-size: 20px;
 }
+.text_po_nor {
+    font-family: 'Poiret One';
+    font-size: 20px;
+}
 .uni_logo {
     border: none;
+}
+.gallery_date {
+    font-family: 'Comfortaa';
+    font-size: 18px;
+    padding-bottom: 15px;
+    padding-top: 5px;
+    text-align: left;
 }
 strong::before, strong::after {
     content:'';
@@ -376,10 +371,6 @@ strong::before, strong::after {
     padding-left: 15px;
     padding-right: 15px;
 }
-
-/*.uni_follow {
-    text-align: center !important;
-}*/
 .icon-cog {
     color:black;
 }
@@ -402,13 +393,12 @@ footer p {
     position: relative;
     bottom: -6px;
 }
-
 .r_links {
     bottom: 6px;
 }
 .f_res {
     font-family: 'Poiret One';
-    font-size: 50px;
+    font-size: 40px;
     font-weight: bold;
 }
 .long_hr {
@@ -418,7 +408,6 @@ footer p {
     border-color:white;
     max-width: 500px;
 }
-
 .ws_more {
     font-family: 'Poiret One';
     font-weight: 900;
@@ -445,7 +434,7 @@ footer p {
 width: 100%;
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: rgba(255, 255, 255, 0.5);
+  background-color: rgba(255, 255, 255, 0.4);
 }
 .cta-dark {
 width: 100%;
@@ -453,14 +442,12 @@ width: 100%;
   padding-bottom: 5rem;
   background-color: rgba(0, 0, 0, 0.2);
 }
-
 .cta .cta-inner {
   position: relative;
   padding: 3rem;
   margin: 0.5rem;
   background-color: rgba(252, 216, 160, 0.85);
 }
-
 .cta .cta-inner:before {
   border-radius: 0.5rem;
   content: '';
@@ -471,43 +458,22 @@ width: 100%;
   right: -0.5rem;
   border: 0.25rem solid rgba(255, 255, 255, 0.85);
 }
-
-/*
-@media (min-width: 400px)
-.col-lg-3 {
-    -ms-flex: 0 0 25% !important;
-    flex: 0 0 25% !important;
-    max-width: 25% !important;
+.member {
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
 }
-
-*/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.member h2 {
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 18px;
+    margin-bottom: 7px;
+}
+.member img {
+    margin-bottom: 20px;
+    border-color: black;
+}
+.emphasis {
+    font-style: italic; 
+}
