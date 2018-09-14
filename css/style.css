@@ -1,0 +1,88 @@
+.imagebox {
+            position:relative;
+            margin: 40px auto;
+            max-width: 300px;
+            overflow: hidden;
+        }
+        .imagebox:hover img {
+            transition: 0.5s;
+            opacity: 0.2;
+        }
+        .imagebox h6 {
+            position: absolute;
+            top:-25px;
+            transform: translateY(-50%);
+            width:100%;
+            text-shadow: 0 2px 5px rgba(0,0,0,0.2);
+            transition: 0.5s;
+            font-family: Comfortaa;
+            font-weight: 800;
+        }
+        .imagebox:hover h6 {
+            top: 15px;
+        }
+        .imagebox .team-title {
+            font-weight: 600;
+            font-size:14px;
+            position: absolute;
+            top: -25px;
+            transform: translateY(-50%);
+            width: 100%;
+            transition: 0.5s;
+            line-height: 1rem;
+        }
+        .imagebox:hover .team-title {
+            top: 20%;
+        }
+        .imagebox p {
+            position: absolute;
+            top:-40%;
+            transform: translateY(-50%);
+            width:100%;
+            font-size: 15px;
+            font-family: 'Quicksand';
+            font-weight: 600;
+            transition: 0.5s;
+        }
+        .imagebox:hover p {
+            top: 55%;
+        }
+        .imagebox ul {
+            position: absolute;
+            margin: auto;
+            padding: 0;
+            display: flex;
+            width: 100%;
+            background: rgba(0,0,0,0.6);
+            bottom: -25px;
+            transform: translateY(25%);
+            transition: 0.5s;
+            height: 30px;
+            vertical-align: center;
+        }
+        .imagebox:hover ul {
+            bottom: 8px;
+        }
+        .imagebox ul li {
+            list-style: none;
+            width:33%;
+            margin: auto;
+        }
+        .imagebox ul li:hover:nth-child(1) {
+            background:#34465d;
+        }
+        .imagebox ul li:hover:nth-child(2) {
+            background:#55acee;
+        }
+        .imagebox ul li:hover:nth-child(3) {
+            background:#e4405f;
+        }
+        .comfort { 
+            font-family: 'Comfortaa';
+            font-size: 15px;
+        }
+        .text_comf_med {
+            text-align: center;
+            font-family: 'Comfortaa';
+            font-size: 25px;
+        }
